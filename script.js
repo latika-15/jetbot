@@ -1,4 +1,6 @@
 
+
+// Element selectors
 let prompt = document.querySelector("#prompt");
 let submitbtn = document.querySelector("#submit");
 let chatContainer = document.querySelector(".chat-container");

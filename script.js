@@ -9,7 +9,7 @@ let image = document.querySelector("#image img");
 let imageinput = document.querySelector("#image input");
 
 
-const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCSAdxXztU8hilQeXH6OWrzngcJ7mJlN1w";
+const Api_Url = "";
 
 let user = {
     message: null,
